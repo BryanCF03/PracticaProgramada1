@@ -1,0 +1,6 @@
+C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Inventario.Abstracciones\bin\Debug\Inventario.Abstracciones.dll
+C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Inventario.Abstracciones\bin\Debug\Inventario.Abstracciones.pdb
+C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Inventario.Abstracciones\obj\Debug\Inventario.Abstracciones.csproj.AssemblyReference.cache
+C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Inventario.Abstracciones\obj\Debug\Inventario.Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Inventario.Abstracciones\obj\Debug\Inventario.Abstracciones.dll
+C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Inventario.Abstracciones\obj\Debug\Inventario.Abstracciones.pdb

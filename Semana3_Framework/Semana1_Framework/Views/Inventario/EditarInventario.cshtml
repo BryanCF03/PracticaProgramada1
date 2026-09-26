@@ -1,0 +1,54 @@
+﻿@model Inventario.Abstracciones.ModelosParaUI.InventarioDto
+
+@{
+    ViewBag.Title = "EditarInventario";
+}
+
+<h2>Editar Inventario</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(model => model.CodigoDelRepuesto)
+        @Html.TextBoxFor(model => model.CodigoDelRepuesto)
+    </div>
+
+    <div>
+        @Html.LabelFor(model => model.NombreDelRepuesto)
+        @Html.TextBoxFor(model => model.NombreDelRepuesto)
+    </div>
+
+    <div>
+        @Html.LabelFor(model => model.MarcaDelRepuesto)
+        @Html.TextBoxFor(model => model.MarcaDelRepuesto)
+    </div>
+
+    <div>
+        @Html.LabelFor(model => model.Vehiculo)
+        @Html.TextBoxFor(model => model.Vehiculo)
+    </div>
+
+    <div>
+        @Html.LabelFor(model => model.Modelo)
+        @Html.TextBoxFor(model => model.Modelo)
+    </div>
+
+    <div>
+        @Html.LabelFor(model => model.Anio)
+        @Html.TextBoxFor(model => model.Anio)
+    </div>
+
+    <div>
+        @Html.LabelFor(model => model.Cantidad)
+        @Html.TextBoxFor(model => model.Cantidad)
+    </div>
+
+    <div>
+        @Html.LabelFor(model => model.Estado)
+        @Html.CheckBoxFor(model => model.Estado)
+    </div>
+
+    <br />
+
+    <button type="submit">Guardar cambios</button>
+}

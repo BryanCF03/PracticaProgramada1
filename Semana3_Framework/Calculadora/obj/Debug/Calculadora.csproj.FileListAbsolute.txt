@@ -1,0 +1,7 @@
+C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Calculadora\obj\Debug\Calculadora.pdb

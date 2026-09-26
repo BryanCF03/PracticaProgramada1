@@ -1,0 +1,88 @@
+﻿@model List<Inventario.Abstracciones.ModelosParaUI.InventarioDto>
+
+@{
+    ViewBag.Title = "ListarInventario";
+}
+
+<h2>Listar Inventario</h2>
+
+<p>
+    @Html.ActionLink(
+        "Registrar nuevo repuesto",
+        "RegistrarInventario",
+        "Inventario",
+        null,
+        new { @class = "btn btn-primary" }
+    )
+</p>
+
+<table class="table table-striped table-bordered"> 
+    <thead>
+        <tr>
+            <th>Código</th>
+            <th>Repuesto</th>
+            <th>Marca</th>
+            <th>Vehículo</th>
+            <th>Modelo</th>
+            <th>Año</th>
+            <th>Cantidad</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CodigoDelRepuesto</td>
+                <td>@item.NombreDelRepuesto</td>
+                <td>@item.MarcaDelRepuesto</td>
+                <td>@item.Vehiculo</td>
+                <td>@item.Modelo</td>
+                <td>@item.Anio</td>
+                <td>@item.Cantidad</td>
+
+                <td>
+                    @if (item.Estado)
+                    {
+                        <span>Disponible</span>
+                    }
+                    else
+                    {
+                        <span>No disponible</span>
+                    }
+                </td>
+                <td>
+                    @Html.ActionLink(
+                        "Detalles",
+                        "DetallesInventario",
+                        "Inventario",
+                        new { codigo = item.CodigoDelRepuesto },
+                        new { @class = "btn btn-info btn-sm" }
+                    )
+
+                    @Html.ActionLink(
+                        "Editar",
+                        "EditarInventario",
+                        "Inventario",
+                        new { codigo = item.CodigoDelRepuesto },
+                        new { @class = "btn btn-warning btn-sm" }
+                    )
+                </td>
+            </tr>
+        }
+
+
+    </tbody>
+</table>
+
+<h3>Resumen de posiciones</h3>
+
+@for (int i = 0; i < Model.Count; i++)
+{
+    <p>
+        Posición @i:
+        @Model[i].NombreDelRepuesto
+    </p>
+}

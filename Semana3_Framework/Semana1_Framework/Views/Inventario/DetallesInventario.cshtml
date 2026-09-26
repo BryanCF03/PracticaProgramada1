@@ -1,0 +1,28 @@
+﻿@model Inventario.Abstracciones.ModelosParaUI.InventarioDto
+
+@{
+    ViewBag.Title = "DetallesInventario";
+}
+
+<h2>Detalles del Inventario</h2>
+
+<p><strong>Código:</strong> @Model.CodigoDelRepuesto</p>
+<p><strong>Repuesto:</strong> @Model.NombreDelRepuesto</p>
+<p><strong>Marca:</strong> @Model.MarcaDelRepuesto</p>
+<p><strong>Vehículo:</strong> @Model.Vehiculo</p>
+<p><strong>Modelo:</strong> @Model.Modelo</p>
+<p><strong>Año:</strong> @Model.Anio</p>
+<p><strong>Cantidad:</strong> @Model.Cantidad</p>
+
+<p>
+    <strong>Estado:</strong>
+
+    @if (Model.Estado)
+    {
+        <span>Disponible</span>
+    }
+    else
+    {
+        <span>No disponible</span>
+    }
+</p>

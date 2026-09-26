@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Inventario";
+}
+
+<h2>Inventario</h2>
+
+<p>Administración del inventario de repuestos.</p>
+
+<p>
+    @Html.ActionLink(
+        "Ver inventario",
+        "ListarInventario",
+        "Inventario",
+        null,
+        new { @class = "btn btn-primary" }
+    )
+
+    @Html.ActionLink(
+        "Registrar repuesto",
+        "RegistrarInventario",
+        "Inventario",
+        null,
+        new { @class = "btn btn-success" }
+    )
+</p>
