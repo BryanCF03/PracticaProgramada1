@@ -1,5 +1,7 @@
 <Solution>
   <Project Path="Calculadora/Calculadora.csproj" Id="73d59eff-bbb4-4f10-b854-5bc73f6ec1da" />
+  <Project Path="Clientes.Abstracciones/Clientes.Abstracciones.csproj" Id="0d507086-f0bf-4a12-980c-70b825f68e3d" />
+  <Project Path="Clientes.LogicaDeNegocio/Clientes.LogicaDeNegocio.csproj" Id="5a20b23c-f846-4fc1-abb4-a6af0a5f9374" />
   <Project Path="Inventario.Abstracciones/Inventario.Abstracciones.csproj" Id="f3b0e9e0-d323-484a-b0f1-5db1d0c00ac8" />
   <Project Path="Inventario.LogicaDeNegocio/Inventario.LogicaDeNegocio.csproj" Id="c276edbf-9529-4be0-b5a6-b8565c915af4" />
   <Project Path="Semana1_Framework/Semana1_Framework.csproj" Id="971e38ef-3401-4c87-8ff4-6db83284d588" />

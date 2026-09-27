@@ -1,0 +1,6 @@
+C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Clientes.Abstracciones\bin\Debug\Clientes.Abstracciones.dll
+C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Clientes.Abstracciones\bin\Debug\Clientes.Abstracciones.pdb
+C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Clientes.Abstracciones\obj\Debug\Clientes.Abstracciones.csproj.AssemblyReference.cache
+C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Clientes.Abstracciones\obj\Debug\Clientes.Abstracciones.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Clientes.Abstracciones\obj\Debug\Clientes.Abstracciones.dll
+C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Clientes.Abstracciones\obj\Debug\Clientes.Abstracciones.pdb

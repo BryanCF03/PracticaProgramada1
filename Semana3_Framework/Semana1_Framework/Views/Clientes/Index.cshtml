@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Clientes";
+}
+
+<h2>Módulo de Clientes</h2>
+
+<p>
+    @Html.ActionLink("Ver lista de clientes", "ListarClientes", null,
+        new { @class = "btn btn-primary" })
+</p>
+<p>
+    @Html.ActionLink("Registrar nuevo cliente", "RegistrarCliente", null,
+        new { @class = "btn btn-success" })
+</p>

@@ -1,22 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\josed\\Desktop\\Programacion Avanzada\\Semana 1\\Semana1_Framework\\",
+  "WorkspaceRootPath": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|c:\\users\\josed\\desktop\\programacion avanzada\\semana 1\\semana1_framework\\semana1_framework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|solutionrelative:semana1_framework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|c:\\users\\bryan\\onedrive\\desktop\\fid\u00E9litas\\progra avanzada\\practicaprogramada1\\semana3_framework\\semana1_framework\\views\\clientes\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|solutionrelative:semana1_framework\\views\\clientes\\editarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|C:\\Users\\josed\\Desktop\\Programacion Avanzada\\Semana 1\\Semana1_Framework\\semana1_framework\\views\\inventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|solutionrelative:semana1_framework\\views\\inventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|c:\\users\\bryan\\onedrive\\desktop\\fid\u00E9litas\\progra avanzada\\practicaprogramada1\\semana3_framework\\semana1_framework\\views\\clientes\\detallescliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|solutionrelative:semana1_framework\\views\\clientes\\detallescliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|C:\\Users\\josed\\Desktop\\Programacion Avanzada\\Semana 1\\Semana1_Framework\\semana1_framework\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|solutionrelative:semana1_framework\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|c:\\users\\bryan\\onedrive\\desktop\\fid\u00E9litas\\progra avanzada\\practicaprogramada1\\semana3_framework\\semana1_framework\\views\\clientes\\registrarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|solutionrelative:semana1_framework\\views\\clientes\\registrarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|C:\\Users\\josed\\Desktop\\Programacion Avanzada\\Semana 1\\Semana1_Framework\\semana1_framework\\views\\inventario\\registrarinventario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|solutionrelative:semana1_framework\\views\\inventario\\registrarinventario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|c:\\users\\bryan\\onedrive\\desktop\\fid\u00E9litas\\progra avanzada\\practicaprogramada1\\semana3_framework\\semana1_framework\\views\\clientes\\listarclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|solutionrelative:semana1_framework\\views\\clientes\\listarclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|c:\\users\\bryan\\onedrive\\desktop\\fid\u00E9litas\\progra avanzada\\practicaprogramada1\\semana3_framework\\semana1_framework\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|solutionrelative:semana1_framework\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|c:\\users\\bryan\\onedrive\\desktop\\fid\u00E9litas\\progra avanzada\\practicaprogramada1\\semana3_framework\\semana1_framework\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971E38EF-3401-4C87-8FF4-6DB83284D588}|Semana1_Framework\\Semana1_Framework.csproj|solutionrelative:semana1_framework\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20B23C-F846-4FC1-ABB4-A6AF0A5F9374}|Clientes.LogicaDeNegocio\\Clientes.LogicaDeNegocio.csproj|c:\\users\\bryan\\onedrive\\desktop\\fid\u00E9litas\\progra avanzada\\practicaprogramada1\\semana3_framework\\clientes.logicadenegocio\\clientes\\clientesln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20B23C-F846-4FC1-ABB4-A6AF0A5F9374}|Clientes.LogicaDeNegocio\\Clientes.LogicaDeNegocio.csproj|solutionrelative:clientes.logicadenegocio\\clientes\\clientesln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D507086-F0BF-4A12-980C-70B825F68E3D}|Clientes.Abstracciones\\Clientes.Abstracciones.csproj|c:\\users\\bryan\\onedrive\\desktop\\fid\u00E9litas\\progra avanzada\\practicaprogramada1\\semana3_framework\\clientes.abstracciones\\logicadenegocio\\clientes\\iclientesln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D507086-F0BF-4A12-980C-70B825F68E3D}|Clientes.Abstracciones\\Clientes.Abstracciones.csproj|solutionrelative:clientes.abstracciones\\logicadenegocio\\clientes\\iclientesln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D507086-F0BF-4A12-980C-70B825F68E3D}|Clientes.Abstracciones\\Clientes.Abstracciones.csproj|c:\\users\\bryan\\onedrive\\desktop\\fid\u00E9litas\\progra avanzada\\practicaprogramada1\\semana3_framework\\clientes.abstracciones\\modelosparaui\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D507086-F0BF-4A12-980C-70B825F68E3D}|Clientes.Abstracciones\\Clientes.Abstracciones.csproj|solutionrelative:clientes.abstracciones\\modelosparaui\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A20B23C-F846-4FC1-ABB4-A6AF0A5F9374}|Clientes.LogicaDeNegocio\\Clientes.LogicaDeNegocio.csproj|c:\\users\\bryan\\onedrive\\desktop\\fid\u00E9litas\\progra avanzada\\practicaprogramada1\\semana3_framework\\clientes.logicadenegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A20B23C-F846-4FC1-ABB4-A6AF0A5F9374}|Clientes.LogicaDeNegocio\\Clientes.LogicaDeNegocio.csproj|solutionrelative:clientes.logicadenegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D507086-F0BF-4A12-980C-70B825F68E3D}|Clientes.Abstracciones\\Clientes.Abstracciones.csproj|c:\\users\\bryan\\onedrive\\desktop\\fid\u00E9litas\\progra avanzada\\practicaprogramada1\\semana3_framework\\clientes.abstracciones\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D507086-F0BF-4A12-980C-70B825F68E3D}|Clientes.Abstracciones\\Clientes.Abstracciones.csproj|solutionrelative:clientes.abstracciones\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,52 +66,146 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\josed\\Desktop\\Programacion Avanzada\\Semana 1\\Semana1_Framework\\Semana1_Framework\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Semana1_Framework\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\josed\\Desktop\\Programacion Avanzada\\Semana 1\\Semana1_Framework\\Semana1_Framework\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Semana1_Framework\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAACCAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Semana1_Framework\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Semana1_Framework\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Semana1_Framework\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Semana1_Framework\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-16T22:12:45.787Z",
+              "WhenOpened": "2026-09-27T22:11:13.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListarClientes.cshtml",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Semana1_Framework\\Views\\Clientes\\ListarClientes.cshtml",
+              "RelativeDocumentMoniker": "Semana1_Framework\\Views\\Clientes\\ListarClientes.cshtml",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Semana1_Framework\\Views\\Clientes\\ListarClientes.cshtml",
+              "RelativeToolTip": "Semana1_Framework\\Views\\Clientes\\ListarClientes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T22:53:12.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistrarCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Semana1_Framework\\Views\\Clientes\\RegistrarCliente.cshtml",
+              "RelativeDocumentMoniker": "Semana1_Framework\\Views\\Clientes\\RegistrarCliente.cshtml",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Semana1_Framework\\Views\\Clientes\\RegistrarCliente.cshtml",
+              "RelativeToolTip": "Semana1_Framework\\Views\\Clientes\\RegistrarCliente.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T22:53:55.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\josed\\Desktop\\Programacion Avanzada\\Semana 1\\Semana1_Framework\\Semana1_Framework\\Views\\Inventario\\Index.cshtml",
-              "RelativeDocumentMoniker": "Semana1_Framework\\Views\\Inventario\\Index.cshtml",
-              "ToolTip": "C:\\Users\\josed\\Desktop\\Programacion Avanzada\\Semana 1\\Semana1_Framework\\Semana1_Framework\\Views\\Inventario\\Index.cshtml",
-              "RelativeToolTip": "Semana1_Framework\\Views\\Inventario\\Index.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAowBgAAAAEAAAAAAAAAA==",
+              "Title": "DetallesCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Semana1_Framework\\Views\\Clientes\\DetallesCliente.cshtml",
+              "RelativeDocumentMoniker": "Semana1_Framework\\Views\\Clientes\\DetallesCliente.cshtml",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Semana1_Framework\\Views\\Clientes\\DetallesCliente.cshtml",
+              "RelativeToolTip": "Semana1_Framework\\Views\\Clientes\\DetallesCliente.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-19T23:16:08.778Z"
+              "WhenOpened": "2026-09-27T22:54:50.713Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InventarioController.cs",
-              "DocumentMoniker": "C:\\Users\\josed\\Desktop\\Programacion Avanzada\\Semana 1\\Semana1_Framework\\Semana1_Framework\\Controllers\\InventarioController.cs",
-              "RelativeDocumentMoniker": "Semana1_Framework\\Controllers\\InventarioController.cs",
-              "ToolTip": "C:\\Users\\josed\\Desktop\\Programacion Avanzada\\Semana 1\\Semana1_Framework\\Semana1_Framework\\Controllers\\InventarioController.cs",
-              "RelativeToolTip": "Semana1_Framework\\Controllers\\InventarioController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "EditarCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Semana1_Framework\\Views\\Clientes\\EditarCliente.cshtml",
+              "RelativeDocumentMoniker": "Semana1_Framework\\Views\\Clientes\\EditarCliente.cshtml",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Semana1_Framework\\Views\\Clientes\\EditarCliente.cshtml",
+              "RelativeToolTip": "Semana1_Framework\\Views\\Clientes\\EditarCliente.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T22:55:48.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Semana1_Framework\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Semana1_Framework\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Semana1_Framework\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Semana1_Framework\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAYwFsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-19T23:12:44.948Z"
+              "WhenOpened": "2026-09-27T22:10:12.481Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegistrarInventario.cshtml",
-              "DocumentMoniker": "C:\\Users\\josed\\Desktop\\Programacion Avanzada\\Semana 1\\Semana1_Framework\\Semana1_Framework\\Views\\Inventario\\RegistrarInventario.cshtml",
-              "RelativeDocumentMoniker": "Semana1_Framework\\Views\\Inventario\\RegistrarInventario.cshtml",
-              "ToolTip": "C:\\Users\\josed\\Desktop\\Programacion Avanzada\\Semana 1\\Semana1_Framework\\Semana1_Framework\\Views\\Inventario\\RegistrarInventario.cshtml",
-              "RelativeToolTip": "Semana1_Framework\\Views\\Inventario\\RegistrarInventario.cshtml",
+              "DocumentIndex": 6,
+              "Title": "ClientesLN.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Clientes.LogicaDeNegocio\\Clientes\\ClientesLN.cs",
+              "RelativeDocumentMoniker": "Clientes.LogicaDeNegocio\\Clientes\\ClientesLN.cs",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Clientes.LogicaDeNegocio\\Clientes\\ClientesLN.cs",
+              "RelativeToolTip": "Clientes.LogicaDeNegocio\\Clientes\\ClientesLN.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T22:09:00.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClientesLN.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Clientes.Abstracciones\\LogicaDeNegocio\\Clientes\\IClientesLN.cs",
+              "RelativeDocumentMoniker": "Clientes.Abstracciones\\LogicaDeNegocio\\Clientes\\IClientesLN.cs",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Clientes.Abstracciones\\LogicaDeNegocio\\Clientes\\IClientesLN.cs",
+              "RelativeToolTip": "Clientes.Abstracciones\\LogicaDeNegocio\\Clientes\\IClientesLN.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-19T23:08:59.393Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T22:07:52.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Clientes.Abstracciones\\ModelosParaUI\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "Clientes.Abstracciones\\ModelosParaUI\\ClienteDto.cs",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Clientes.Abstracciones\\ModelosParaUI\\ClienteDto.cs",
+              "RelativeToolTip": "Clientes.Abstracciones\\ModelosParaUI\\ClienteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T22:07:35.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Clientes.LogicaDeNegocio\\Class1.cs",
+              "RelativeDocumentMoniker": "Clientes.LogicaDeNegocio\\Class1.cs",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Clientes.LogicaDeNegocio\\Class1.cs",
+              "RelativeToolTip": "Clientes.LogicaDeNegocio\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T22:03:47.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Clientes.Abstracciones\\Class1.cs",
+              "RelativeDocumentMoniker": "Clientes.Abstracciones\\Class1.cs",
+              "ToolTip": "C:\\Users\\bryan\\OneDrive\\Desktop\\Fid\u00E9litas\\Progra Avanzada\\PracticaProgramada1\\Semana3_Framework\\Clientes.Abstracciones\\Class1.cs",
+              "RelativeToolTip": "Clientes.Abstracciones\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T22:02:38.347Z",
+              "EditorCaption": ""
             }
           ]
         }

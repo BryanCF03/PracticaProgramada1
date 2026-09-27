@@ -127,6 +127,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\ClientesController.cs" />
     <Compile Include="Controllers\ContactoController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\InventarioController.cs" />
@@ -194,6 +195,11 @@
     <Content Include="Views\Inventario\RegistrarInventario.cshtml" />
     <Content Include="Views\Inventario\EditarInventario.cshtml" />
     <Content Include="Views\Inventario\Index.cshtml" />
+    <Content Include="Views\Clientes\Index.cshtml" />
+    <Content Include="Views\Clientes\ListarClientes.cshtml" />
+    <Content Include="Views\Clientes\RegistrarCliente.cshtml" />
+    <Content Include="Views\Clientes\DetallesCliente.cshtml" />
+    <Content Include="Views\Clientes\EditarCliente.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -226,6 +232,14 @@
     <Content Include="Scripts\jquery-3.7.0.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Clientes.Abstracciones\Clientes.Abstracciones.csproj">
+      <Project>{0d507086-f0bf-4a12-980c-70b825f68e3d}</Project>
+      <Name>Clientes.Abstracciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Clientes.LogicaDeNegocio\Clientes.LogicaDeNegocio.csproj">
+      <Project>{5a20b23c-f846-4fc1-abb4-a6af0a5f9374}</Project>
+      <Name>Clientes.LogicaDeNegocio</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Inventario.Abstracciones\Inventario.Abstracciones.csproj">
       <Project>{f3b0e9e0-d323-484a-b0f1-5db1d0c00ac8}</Project>
       <Name>Inventario.Abstracciones</Name>

@@ -1,0 +1,44 @@
+﻿@model Clientes.Abstracciones.ModelosParaUI.ClienteDto
+
+@{
+    ViewBag.Title = "Detalles Cliente";
+}
+
+<h2>Detalles del Cliente</h2>
+
+<dl class="dl-horizontal">
+    <dt>Identificación</dt>
+    <dd>@Model.Identificacion</dd>
+
+    <dt>Nombre</dt>
+    <dd>@Model.Nombre</dd>
+
+    <dt>Primer Apellido</dt>
+    <dd>@Model.PrimerApellido</dd>
+
+    <dt>Segundo Apellido</dt>
+    <dd>@Model.SegundoApellido</dd>
+
+    <dt>Teléfono</dt>
+    <dd>@Model.Telefono</dd>
+
+    <dt>Correo</dt>
+    <dd>@Model.CorreoElectronico</dd>
+
+    <dt>Fecha de Registro</dt>
+    <dd>@Model.FechaDeRegistro.ToString("dd/MM/yyyy HH:mm")</dd>
+
+    <dt>Fecha de Modificación</dt>
+    <dd>@Model.FechaDeModificacion.ToString("dd/MM/yyyy HH:mm")</dd>
+
+    <dt>Estado</dt>
+    <dd>@Model.Estado</dd>
+</dl>
+
+<p>
+    @Html.ActionLink("Editar", "EditarCliente",
+        new { identificacion = Model.Identificacion },
+        new { @class = "btn btn-warning" })
+    @Html.ActionLink("Volver a la lista", "ListarClientes", null,
+        new { @class = "btn btn-secondary" })
+</p>

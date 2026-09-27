@@ -7,3 +7,12 @@ C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Inventar
 C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Inventario.LogicaDeNegocio\obj\Debug\Inventar.BF814967.Up2Date
 C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Inventario.LogicaDeNegocio\obj\Debug\Inventario.LogicaDeNegocio.dll
 C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Inventario.LogicaDeNegocio\obj\Debug\Inventario.LogicaDeNegocio.pdb
+C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\bin\Debug\Inventario.LogicaDeNegocio.dll
+C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\bin\Debug\Inventario.LogicaDeNegocio.pdb
+C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\bin\Debug\Inventario.Abstracciones.dll
+C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\bin\Debug\Inventario.Abstracciones.pdb
+C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\obj\Debug\Inventario.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\obj\Debug\Inventario.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\obj\Debug\Inventar.BF814967.Up2Date
+C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\obj\Debug\Inventario.LogicaDeNegocio.dll
+C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\obj\Debug\Inventario.LogicaDeNegocio.pdb

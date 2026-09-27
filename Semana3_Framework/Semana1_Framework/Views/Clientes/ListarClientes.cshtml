@@ -1,0 +1,51 @@
+﻿@model List<Clientes.Abstracciones.ModelosParaUI.ClienteDto>
+
+@{
+    ViewBag.Title = "Listar Clientes";
+}
+
+<h2>Lista de Clientes</h2>
+
+<p>
+    @Html.ActionLink("Registrar nuevo cliente", "RegistrarCliente", null,
+        new { @class = "btn btn-success" })
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Identificación</th>
+            <th>Nombre</th>
+            <th>Primer Apellido</th>
+            <th>Segundo Apellido</th>
+            <th>Teléfono</th>
+            <th>Correo</th>
+            <th>Fecha Registro</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cliente in Model)
+        {
+            <tr>
+                <td>@cliente.Identificacion</td>
+                <td>@cliente.Nombre</td>
+                <td>@cliente.PrimerApellido</td>
+                <td>@cliente.SegundoApellido</td>
+                <td>@cliente.Telefono</td>
+                <td>@cliente.CorreoElectronico</td>
+                <td>@cliente.FechaDeRegistro.ToString("dd/MM/yyyy")</td>
+                <td>@cliente.Estado</td>
+                <td>
+                    @Html.ActionLink("Detalles", "DetallesCliente",
+                        new { identificacion = cliente.Identificacion },
+                        new { @class = "btn btn-info btn-sm" })
+                    @Html.ActionLink("Editar", "EditarCliente",
+                        new { identificacion = cliente.Identificacion },
+                        new { @class = "btn btn-warning btn-sm" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
