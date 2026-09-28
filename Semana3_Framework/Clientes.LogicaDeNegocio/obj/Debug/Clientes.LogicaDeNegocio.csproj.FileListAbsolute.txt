@@ -16,3 +16,12 @@ D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Clientes.LogicaDeNegocio\obj
 D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Clientes.LogicaDeNegocio\obj\Debug\Clientes.647DBF6B.Up2Date
 D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Clientes.LogicaDeNegocio\obj\Debug\Clientes.LogicaDeNegocio.dll
 D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Clientes.LogicaDeNegocio\obj\Debug\Clientes.LogicaDeNegocio.pdb
+C:\Projects\PracticaProgramada1\Semana3_Framework\Clientes.LogicaDeNegocio\bin\Debug\Clientes.LogicaDeNegocio.dll
+C:\Projects\PracticaProgramada1\Semana3_Framework\Clientes.LogicaDeNegocio\bin\Debug\Clientes.LogicaDeNegocio.pdb
+C:\Projects\PracticaProgramada1\Semana3_Framework\Clientes.LogicaDeNegocio\bin\Debug\Clientes.Abstracciones.dll
+C:\Projects\PracticaProgramada1\Semana3_Framework\Clientes.LogicaDeNegocio\bin\Debug\Clientes.Abstracciones.pdb
+C:\Projects\PracticaProgramada1\Semana3_Framework\Clientes.LogicaDeNegocio\obj\Debug\Clientes.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Projects\PracticaProgramada1\Semana3_Framework\Clientes.LogicaDeNegocio\obj\Debug\Clientes.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Projects\PracticaProgramada1\Semana3_Framework\Clientes.LogicaDeNegocio\obj\Debug\Clientes.647DBF6B.Up2Date
+C:\Projects\PracticaProgramada1\Semana3_Framework\Clientes.LogicaDeNegocio\obj\Debug\Clientes.LogicaDeNegocio.dll
+C:\Projects\PracticaProgramada1\Semana3_Framework\Clientes.LogicaDeNegocio\obj\Debug\Clientes.LogicaDeNegocio.pdb

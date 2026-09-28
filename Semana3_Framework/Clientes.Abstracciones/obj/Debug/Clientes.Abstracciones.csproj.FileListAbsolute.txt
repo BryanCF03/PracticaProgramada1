@@ -10,3 +10,9 @@ D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Clientes.Abstracciones\obj\D
 D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Clientes.Abstracciones\obj\Debug\Clientes.Abstracciones.csproj.CoreCompileInputs.cache
 D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Clientes.Abstracciones\obj\Debug\Clientes.Abstracciones.dll
 D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Clientes.Abstracciones\obj\Debug\Clientes.Abstracciones.pdb
+C:\Projects\PracticaProgramada1\Semana3_Framework\Clientes.Abstracciones\bin\Debug\Clientes.Abstracciones.dll
+C:\Projects\PracticaProgramada1\Semana3_Framework\Clientes.Abstracciones\bin\Debug\Clientes.Abstracciones.pdb
+C:\Projects\PracticaProgramada1\Semana3_Framework\Clientes.Abstracciones\obj\Debug\Clientes.Abstracciones.csproj.AssemblyReference.cache
+C:\Projects\PracticaProgramada1\Semana3_Framework\Clientes.Abstracciones\obj\Debug\Clientes.Abstracciones.csproj.CoreCompileInputs.cache
+C:\Projects\PracticaProgramada1\Semana3_Framework\Clientes.Abstracciones\obj\Debug\Clientes.Abstracciones.dll
+C:\Projects\PracticaProgramada1\Semana3_Framework\Clientes.Abstracciones\obj\Debug\Clientes.Abstracciones.pdb

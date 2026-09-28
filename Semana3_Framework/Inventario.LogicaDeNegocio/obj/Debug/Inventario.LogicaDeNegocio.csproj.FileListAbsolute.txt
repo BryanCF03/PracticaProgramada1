@@ -25,3 +25,12 @@ D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Inventario.LogicaDeNegocio\o
 D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Inventario.LogicaDeNegocio\obj\Debug\Inventar.BF814967.Up2Date
 D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Inventario.LogicaDeNegocio\obj\Debug\Inventario.LogicaDeNegocio.dll
 D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Inventario.LogicaDeNegocio\obj\Debug\Inventario.LogicaDeNegocio.pdb
+C:\Projects\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\bin\Debug\Inventario.LogicaDeNegocio.dll
+C:\Projects\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\bin\Debug\Inventario.LogicaDeNegocio.pdb
+C:\Projects\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\bin\Debug\Inventario.Abstracciones.dll
+C:\Projects\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\bin\Debug\Inventario.Abstracciones.pdb
+C:\Projects\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\obj\Debug\Inventario.LogicaDeNegocio.csproj.AssemblyReference.cache
+C:\Projects\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\obj\Debug\Inventario.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Projects\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\obj\Debug\Inventar.BF814967.Up2Date
+C:\Projects\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\obj\Debug\Inventario.LogicaDeNegocio.dll
+C:\Projects\PracticaProgramada1\Semana3_Framework\Inventario.LogicaDeNegocio\obj\Debug\Inventario.LogicaDeNegocio.pdb
