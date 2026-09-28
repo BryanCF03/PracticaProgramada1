@@ -7,3 +7,12 @@ C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\S
 C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Clientes.LogicaDeNegocio\obj\Debug\Clientes.647DBF6B.Up2Date
 C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Clientes.LogicaDeNegocio\obj\Debug\Clientes.LogicaDeNegocio.dll
 C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Clientes.LogicaDeNegocio\obj\Debug\Clientes.LogicaDeNegocio.pdb
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Clientes.LogicaDeNegocio\bin\Debug\Clientes.LogicaDeNegocio.dll
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Clientes.LogicaDeNegocio\bin\Debug\Clientes.LogicaDeNegocio.pdb
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Clientes.LogicaDeNegocio\bin\Debug\Clientes.Abstracciones.dll
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Clientes.LogicaDeNegocio\bin\Debug\Clientes.Abstracciones.pdb
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Clientes.LogicaDeNegocio\obj\Debug\Clientes.LogicaDeNegocio.csproj.AssemblyReference.cache
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Clientes.LogicaDeNegocio\obj\Debug\Clientes.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Clientes.LogicaDeNegocio\obj\Debug\Clientes.647DBF6B.Up2Date
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Clientes.LogicaDeNegocio\obj\Debug\Clientes.LogicaDeNegocio.dll
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Clientes.LogicaDeNegocio\obj\Debug\Clientes.LogicaDeNegocio.pdb

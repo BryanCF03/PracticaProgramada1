@@ -10,3 +10,9 @@ C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\S
 C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Inventario.Abstracciones\obj\Debug\Inventario.Abstracciones.csproj.CoreCompileInputs.cache
 C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Inventario.Abstracciones\obj\Debug\Inventario.Abstracciones.dll
 C:\Users\bryan\OneDrive\Desktop\Fidélitas\Progra Avanzada\PracticaProgramada1\Semana3_Framework\Inventario.Abstracciones\obj\Debug\Inventario.Abstracciones.pdb
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Inventario.Abstracciones\bin\Debug\Inventario.Abstracciones.dll
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Inventario.Abstracciones\bin\Debug\Inventario.Abstracciones.pdb
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Inventario.Abstracciones\obj\Debug\Inventario.Abstracciones.csproj.AssemblyReference.cache
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Inventario.Abstracciones\obj\Debug\Inventario.Abstracciones.csproj.CoreCompileInputs.cache
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Inventario.Abstracciones\obj\Debug\Inventario.Abstracciones.dll
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Inventario.Abstracciones\obj\Debug\Inventario.Abstracciones.pdb

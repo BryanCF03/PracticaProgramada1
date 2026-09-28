@@ -9,8 +9,7 @@
 @using (Html.BeginForm())
 {
     <div>
-        @Html.LabelFor(model => model.CodigoDelRepuesto)
-        @Html.TextBoxFor(model => model.CodigoDelRepuesto)
+        @Html.HiddenFor(model => model.CodigoDelRepuesto)
     </div>
 
     <div>
@@ -50,5 +49,5 @@
 
     <br />
 
-    <button type="submit">Guardar cambios</button>
+    <button type="submit" class="btn btn-warning">Guardar cambios</button>
 }

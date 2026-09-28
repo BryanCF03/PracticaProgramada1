@@ -5,3 +5,10 @@ C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Calculad
 C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
 C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\josed\Desktop\Programacion Avanzada\Semana 1\Semana1_Framework\Calculadora\obj\Debug\Calculadora.pdb
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Calculadora\bin\Debug\Calculadora.exe.config
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Calculadora\bin\Debug\Calculadora.exe
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Calculadora\bin\Debug\Calculadora.pdb
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Calculadora\obj\Debug\Calculadora.exe
+D:\@PROGRA_AVANZADA\Sem3_FramWork\Semana3_Framework\Calculadora\obj\Debug\Calculadora.pdb
